@@ -136,7 +136,10 @@ public class PruebaPersona {
          
      
         
-        
+        /*
+            Esto es un comentario sin sentido que se hace para comprobar que el 
+            funcionamiento de Git es el correcto.
+        */
     }
     
 }
