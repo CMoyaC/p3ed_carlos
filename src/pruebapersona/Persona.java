@@ -124,7 +124,10 @@ public class Persona {
         return Pattern.matches(dniRegexp, valor);
         
         
-        
+       /*
+            Esto es un comentario sin sentido que se hace para comprobar que el 
+            funcionamiento de Git es el correcto. Esta vez estoy en Persona.java
+        */ 
         
     }
 }
